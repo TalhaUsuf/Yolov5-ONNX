@@ -1,0 +1,3 @@
+[submodule "exporter/yolov5"]
+	path = exporter/yolov5
+	url = https://github.com/ultralytics/yolov5.git
